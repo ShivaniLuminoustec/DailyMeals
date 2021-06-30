@@ -134,7 +134,9 @@ li{
 }
 
 /*Explore*/
-
+.explore{
+    margin-bottom: 100px;
+}
 .explore h3
 {
     position: relative;
@@ -148,7 +150,7 @@ li{
     line-height: 50px;
     color: #000000;
     padding-left:40px;
-
+ 
 }
 
 /*
@@ -192,7 +194,48 @@ li{
     line-height: 28px;
     color: #000000;
     margin: auto;
+    padding-bottom: 50px;
 
+}
+
+.view_all
+{
+    color:#FF6B00;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.view_all_container
+{
+    text-align: right;
+    margin-right: 60px;
+    font-family: poppins;
+    font-weight: 600;
+}
+
+.cards
+{
+    margin: 40px;
+   
+}
+
+.col
+{
+    border-radius: 100px;
+}
+
+.card-title
+{
+    font-family: poppins;
+    text-align: center;
+    font-weight: 500;
+}
+
+.card-text
+{
+    font-family: poppins;
+    text-align: center;
+    color:rgba(0, 0, 0, 0.5);
 }
 
 /*para of who we are*/
