@@ -252,3 +252,14 @@ li{
     
 }
 
+.Copyright
+{
+    text-align: center !important;
+    font-family: poppins !important;
+    color:#000000 !important;
+}
+.daily_meals
+{
+    font-family: poppins;
+    color:#000000;
+}
