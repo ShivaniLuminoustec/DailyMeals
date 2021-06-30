@@ -11,7 +11,7 @@ body
 }
 .bg_image
 {
-    background-image: url(../images/nav_image.png);
+    background-image: url(images/nav_image.png);
     background-size: cover;
     width: 1555.91px;
 }
